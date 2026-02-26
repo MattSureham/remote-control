@@ -1,0 +1,7 @@
+# Host Dependencies
+flask==3.0.0
+flask-socketio==5.3.6
+eventlet==0.33.3
+mss==9.0.1
+pynput==1.7.6
+pillow==10.1.0
